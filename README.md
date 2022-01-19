@@ -1,8 +1,9 @@
 Hello world !
 
-My name is Aashiesh and I live in  Pune ,India. Post Graduated as Master in Ccomputer Management and Bachelor in commmerce. 
-Even if I did not attend a bachelor in Computer Science I closed the gap by completing Honors Diploma in Software Technology and Systems Management from NIIT. 
-Working in the IT industry since 2004 and my curiosity and ambition lead me to my current job as lead software engineer. 
+My name is Aashiesh and I live in  Pune ,India. Working in the IT industry since 2001 and my curiosity and ambition lead me to my current job as lead software engineer. 
+
+Post Graduated as Master in Computer Management and Graduated as Bachelor in Commerce. 
+Even if I did not attend a bachelor in Computer Science I closed the gap by completing Honors Diploma in Software Technology and Systems Management from NIIT. Completed 'A' and 'O' level from Department of Electronics and Accreditation of Computer Courses. 
 
 Expertise in strong combination of technical skill and honed business sense. Dedicated, organized, Self –starter, with the flexibility to adjust to multiple 
 demands, shifting priorities, ambiguity and rapid change. A natural leader with high degree of flexibility and a proven ability in managing large team.
@@ -12,7 +13,6 @@ Engaged with multi-functional and multi-regional teams to create impactful produ
 Good domain knowledge into BFSI, Retail and Manufacturing. Strong experience in leading large scale transformational, global change along with people 
 management, delivery management in the domain of Cloud Web Application microservices development and Big data migration using AWS cloud services. End-to-end project experience 
 including user needs analysis, gap analysis, design, implementation, framework selection, technology selection. 
-
 
 Feel free to reach me out on e-mail or LinkedIn
 https://www.linkedin.com/in/ashish-soni-bab08736/
